@@ -1,0 +1,29 @@
+.owl-prev,
+.owl-next {
+  position: absolute;
+  top: 20%;
+  transform: translateY(-50%);
+}
+.owl-prev span,
+.owl-next span{
+  font-size: 4rem;
+  color: #4D2900;
+}
+
+.owl-prev {
+  left: -2rem;
+}
+
+.owl-next {
+  right: -2rem;
+}
+
+.owl-prev:hover,
+.owl-next:hover{
+    background: none !important;
+    color: #102E46 !important;
+}
+
+.owl-carousel .owl-item img{
+  width: auto !important;
+}

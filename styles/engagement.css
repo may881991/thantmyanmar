@@ -1,0 +1,33 @@
+#feature .row{
+    margin: 0;
+}
+
+#feature .card{
+    background: #000;
+    border-radius: 0;
+    border: 1px solid #fff;
+    /* min-height: 400px; */
+    margin: 0;
+}
+#feature .card:hover{
+    background: none;
+    transition: 3s;
+}
+#feature .card-deck{
+    margin: 0;
+}
+.eng-col{
+    padding: 0;
+}
+/* .card .des{
+    height: 120px;
+} */
+/* .avatar{
+    margin-top: -20%;
+} */
+/* .positioned
+{
+margin-top: -28.6rem;
+z-index: 100;
+position: relative;
+} */

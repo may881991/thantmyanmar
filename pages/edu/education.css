@@ -1,0 +1,11 @@
+.resbox .card{
+  border: none !important;
+}
+.youtube-link{
+  font-size: 0.9rem;
+  color: #359433;
+}
+.platform-label{ 
+  color: #7D7987;
+  font-size: 0.85rem;
+}

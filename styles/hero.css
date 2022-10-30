@@ -1,0 +1,29 @@
+.carousel-caption{
+    bottom: 43% !important;
+    font-size: 20px;
+    padding: 30px;
+    background: #30303055;
+    border-radius: 20px;
+    width: 50%;
+    left: 20%;
+}
+.carousel-caption h3{ 
+  font-family: "Poppins-Medium";
+}
+.card-title{
+  font-family: "Poppins-Medium"; 
+}
+.nav-tabs .nav-link.active{
+  color: #28a745 !important;
+  background: none !important;
+  border: none;
+}
+.nav-tabs .nav-link:hover{
+  color: #28a745 !important; 
+}
+.bannerText p{
+  line-height: 1.8;
+}
+.sr-only{
+  display: none;
+}
